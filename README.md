@@ -6,9 +6,11 @@ My name is Alexander and i'm software developer.
 
 All my skills:
 
-  #Django(Python)
-  #.Net(C#)
-  #DataBases(MySQL)
+  ```
+  Django(Python)
+  .NET(C#)
+  DataBases(MySQL)
+  ```
 
 My codewars profile: https://www.codewars.com/users/Reedus
 
