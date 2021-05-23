@@ -9,8 +9,8 @@ All my skills:
   ```
   Django/Python
   .NET(C#)
-  HTML/CSS
-  
+  HTML/CSS - Adaptive layout of web pages
+  Bootstrap 4
   ```
 
 My codewars profile: https://www.codewars.com/users/Reedus
