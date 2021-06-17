@@ -20,7 +20,7 @@ My codewars profile: https://www.codewars.com/users/Reedus
 <p align="center">
   <table>
   <tr>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reedus0&hide=html&layout=compact&hide_border=true&hide_title=true" /></td>
+      <td><img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reedus0&hide=html&layout=compact&hide_border=true&hide_title=true" /></td>
   </tr>   
 </table>
 </p>
