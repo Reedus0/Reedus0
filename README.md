@@ -10,6 +10,7 @@ All my skills:
   Django/Python
   .NET(C#)
   HTML/CSS
+  SASS/SCSS
   Js/JQuery
   Bootstrap 4
   ```
