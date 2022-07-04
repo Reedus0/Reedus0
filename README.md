@@ -11,7 +11,7 @@ All my skills:
   .NET(C#)
   HTML/CSS
   SASS/SCSS
-  Js/JQuery
+  JavaSript/TypeScript
   Bootstrap 4
   ```
 
