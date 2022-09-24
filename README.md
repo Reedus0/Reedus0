@@ -12,7 +12,7 @@ All my skills:
   HTML/CSS
   SASS/SCSS
   JavaSript/TypeScript
-  Bootstrap 4
+  React/Redux
   ```
 
 My codewars profile: https://www.codewars.com/users/Reedus
