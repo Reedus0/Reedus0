@@ -1,19 +1,6 @@
 # Hello there!
 
-
-
-My name is Alexander and i'm software developer.
-
-All my skills:
-
-  ```
-  Django/Python
-  .NET(C#)
-  HTML/CSS
-  SASS/SCSS
-  JavaSript/TypeScript
-  React/Redux
-  ```
+My name is Alexander and i'm software developer and cybersecurity expert.
 
 My codewars profile: https://www.codewars.com/users/Reedus
 
